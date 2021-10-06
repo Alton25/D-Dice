@@ -1,0 +1,14 @@
+.dice {
+    background-color: rgb(6, 77, 41);
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    font-size: 80px;
+}
+
+button{
+    margin: 5px;
+}
+
+
+
